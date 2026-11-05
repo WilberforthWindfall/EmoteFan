@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Emote Fan
+## Notes: Emotes, eigene Texte und Makros per Fächer-Knopf – für Rollenspiel.
+## Version: 0.1.1 (Beta)
+## Author: Barlor Rostbart
+## SavedVariables: EmoteFanDB
+## SavedVariablesPerCharacter: EmoteFanChar
+
+EmoteFan.lua

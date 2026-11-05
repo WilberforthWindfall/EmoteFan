@@ -1,0 +1,57 @@
+EMOTE FAN – Version 0.1.1 (Beta)
+================================
+
+Emotes, eigene Texte und Makros per Fächer-Knopf – für Rollenspiel.
+Kostenlos, offener Code, nur die offizielle Add-on-Schnittstelle.
+Jedes Emote löst du selbst per Klick aus; nichts läuft automatisch.
+
+
+SO BENUTZT DU ES
+----------------
+Der runde Knopf auf dem Bildschirm
+  - Maus darüber: der Ring mit deinen Lieblingen fächert sich auf.
+  - Klick auf ein Symbol: dein Charakter macht das Emote, der Ring schließt sich.
+  - Maus weg: der Ring schließt sich von selbst.
+  - Ziehen mit gedrückter linker Maustaste: Knopf verschieben.
+  - Rechtsklick: Optionen.
+
+Im Ring
+  - Rechtsklick auf einen Platz: "Platz belegen" (Emote, eigener Text, Spruch oder Makro).
+  - Klick auf einen leeren Platz (Plus-Zeichen): ebenfalls "Platz belegen".
+  - "Mehr ..." (Buch-Symbol): öffnet die Leiste mit allen Emotes.
+
+In der Leiste "Alle Emotes"
+  - Oben die Auswahlliste: Spiel-Emotes nach Gruppen und deine eigenen Gruppen.
+  - Klick auf eine Kachel: Emote ausführen.
+  - Rechtsklick auf eine Kachel: "Auf den Ring legen" (Platz wählen),
+    bei eigenen Einträgen auch "Bearbeiten" und "Löschen".
+  - Mausrad: weiterblättern.
+  - "+ Neue Gruppe" in der Auswahlliste legt eine eigene Gruppe an,
+    darin legt die Kachel "+ Neu" eigene Texte, Sprüche oder Makros an.
+
+Emote-Hilfe
+  - Im Fenster "Platz belegen" oben rechts, in den Optionen oder mit /ef hilfe.
+  - Zeigt alle Emotes, die das Spiel kennt, mit Befehl und kurzer Beschreibung.
+  - "Vormachen" probiert das Emote aus, "Nehmen" legt es auf den Platz.
+  - Die Beschreibungen haben wir selbst geschrieben – bitte im Spiel prüfen.
+
+Optionen (kleiner Knopf oben an der Minimap, Rechtsklick auf den Hauptknopf oder /ef)
+  - Anzahl der Lieblinge im Ring: 4 bis 12.
+  - Knopf festsetzen, Minimap-Knopf ein/aus, Knopf in die Mitte setzen.
+
+
+GUT ZU WISSEN
+-------------
+- Im Kampf ist der Fächer geschlossen und lässt sich nicht öffnen.
+  Das schreibt das Spiel so vor.
+- Eigene Texte erscheinen im Chat wie ein Emote: "Barlor hebt den Krug."
+  Mehrere Zeilen = mehrere Emotes nacheinander.
+- Der Ring gehört zum jeweiligen Charakter. Eigene Einträge in Gruppen gelten
+  für alle Charaktere, außer du wählst "Nur diesen Charakter".
+- Befehle: /ef (Optionen), /ef hilfe (Emote-Hilfe), /ef mitte (Knopf zurücksetzen).
+
+
+EINBAU
+------
+Den Ordner "EmoteFan" in den AddOns-Ordner des Spiels legen
+(dort, wo auch die anderen Add-ons liegen), dann das Spiel starten.
